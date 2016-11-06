@@ -4,8 +4,15 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ## Contents
 
-* Libraries
-* Resources
+* [Web Frameworks](#web-frameworks)
+* [Message Queues](#message-queues)
+* [Database Drivers](#database-drivers)
+* [Networking](#networking)
+* [Testing](#testing)
+* [Alternative Loops](#alternative-loops)
+* [Misc](#misc)
+* [Writings](#writings)
+* [Talks](#talks)
 
 ***
 
@@ -25,7 +32,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio
 * [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ
 
-## Database drivers
+## Database Drivers
 
 *Libraries to talk to databases.*
 
