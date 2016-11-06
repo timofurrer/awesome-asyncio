@@ -38,14 +38,14 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *Libraries to talk to databases.*
 
-* [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio)
-* [aioes](https://github.com/aio-libs/aioes) - asyncio compatible driver for elasticsearch
-* [motor](https://github.com/mongodb/motor) - the async Python driver for MongoDB and Tornado or asyncio
-* [aiomysql](https://github.com/aio-libs/aiomysql) - library for accessing a MySQL database from the asyncio
-* [aioodbc](https://github.com/aio-libs/aioodbc) - library for accessing a ODBC databases from the asyncio
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio
 * [aiopg](https://github.com/aio-libs/aiopg/) - library for accessing a PostgreSQL database from the asyncio
+* [aiomysql](https://github.com/aio-libs/aiomysql) - library for accessing a MySQL database from the asyncio
+* [aioodbc](https://github.com/aio-libs/aioodbc) - library for accessing a ODBC databases from the asyncio
+* [motor](https://github.com/mongodb/motor) - the async Python driver for MongoDB and Tornado or asyncio
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156)
+* [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio)
+* [aioes](https://github.com/aio-libs/aioes) - asyncio compatible driver for elasticsearch
 
 ## Networking
 
