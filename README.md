@@ -2,6 +2,8 @@
 
 A curated list of awesome Python asyncio frameworks, libraries, software and resources
 
+⇢ *Note: please contribute if you know about missing awesome asyncio stuff!*
+
 ## Contents
 
 * [Web Frameworks](#web-frameworks)
