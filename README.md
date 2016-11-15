@@ -44,6 +44,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+* [txmongo](https://github.com/twisted/txmongo) - The twisted async Python driver for MongoDB.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
