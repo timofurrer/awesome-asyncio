@@ -26,6 +26,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
 * [Kyoukai](https://github.com/SunDwarf/Kyoukai) - A fully async web framework for Python3.5+ using asyncio.
 * [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
+* [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
 ## Message Queues
 
@@ -33,6 +34,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
 * [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
+* [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 
 ## Database Drivers
 
