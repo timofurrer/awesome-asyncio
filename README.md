@@ -24,7 +24,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-* [Kyoukai](https://github.com/SunDwarf/Kyoukai) - A fully async web framework for Python3.5+ using asyncio.
+* [Kyoukai](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
 * [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 * [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
@@ -40,14 +40,14 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 *Libraries to connect to databases.*
 
-* [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
+* [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
-* [aioes](https://github.com/aio-libs/aioes) - asyncio compatible driver for elasticsearch.
+* [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 
 ## Networking
 
