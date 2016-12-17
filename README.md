@@ -1,6 +1,6 @@
 # awesome-asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Python asyncio frameworks, libraries, software and resources
+A curated list of awesome Python asyncio frameworks, libraries, software and resources.
 
 ⇢ *Note: please contribute if you know about missing awesome asyncio stuff!*
 
@@ -38,7 +38,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ## Database Drivers
 
-*Libraries to talk to databases.*
+*Libraries to connect to databases.*
 
 * [asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
@@ -77,7 +77,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ## Writings
 
-*Documentation, blog posts, and other awesome writing about asyncio*
+*Documentation, blog posts, and other awesome writing about asyncio.*
 
 * [Official asyncio documentation](https://docs.python.org/3/library/asyncio.html) - Asynchronous I/O, event loop, coroutines and tasks.
 * [Short well-written intro to asyncio](http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html) - Generators, Coroutines, Native Coroutines and async/await.
@@ -86,6 +86,6 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 
 ## Talks
 
-*People given awesome talks about asyncio*
+*People has given awesome talks about asyncio.*
 
 * [Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU) - Keynote by David Beazley.
