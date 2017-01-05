@@ -48,6 +48,7 @@ A curated list of awesome Python asyncio frameworks, libraries, software and res
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
+* [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee](https://github.com/coleifer/peewee) and aiopg.
 
 ## Networking
 
