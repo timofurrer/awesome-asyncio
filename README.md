@@ -45,6 +45,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to connect to databases.*
 
 * [asyncpg](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+* [asyncpgsa] (https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
 * [aiopg](https://github.com/aio-libs/aiopg/) - Library for accessing a PostgreSQL database.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
