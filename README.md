@@ -64,6 +64,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Libraries to test asyncio based applications.*
 
+* [aiomock](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
 * [asynctest](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
