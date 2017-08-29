@@ -81,6 +81,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Other awesome asyncio libraries.*
 
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
+* [asynccli] (https://github.com/ahopkins/asynccli) - A CLI framework based on asyncio.
 
 ## Writings
 
