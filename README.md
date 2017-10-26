@@ -82,6 +82,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+* [aiomonitor](https://github.com/aio-libs/aiomonitor) - adds monitor and python REPL capabilities for asyncio application.
+* [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 
 ## Writings
 
