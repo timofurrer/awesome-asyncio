@@ -97,3 +97,4 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *People has given awesome talks about asyncio.*
 
 * [Topics of Interest (Python Asyncio)](https://www.youtube.com/watch?v=ZzfHjytDceU) - Keynote by David Beazley.
+* [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) - 8-part code walkthrough by Philip Guo
