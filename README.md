@@ -33,6 +33,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 * [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 * [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
+* [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
 
 ## Message Queues
 
