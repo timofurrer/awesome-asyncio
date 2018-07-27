@@ -30,7 +30,6 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
 * [Quart](https://gitlab.com/pgjones/quart) - An asyncio web microframework with the same API as Flask.
 * [Vibora](https://github.com/vibora-io/vibora) - Performant web framework inspired by Flask.
-* [Kyoukai](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
 * [cirrina](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
 * [autobahn](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 * [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
