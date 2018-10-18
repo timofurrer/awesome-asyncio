@@ -69,6 +69,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to communicate in your network.*
 
 * [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
+* [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 
 ## Testing
 
