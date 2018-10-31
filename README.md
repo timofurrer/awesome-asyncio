@@ -10,15 +10,15 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Contents
 
-* [Web Frameworks](#web-frameworks)
-* [Message Queues](#message-queues)
-* [Database Drivers](#database-drivers)
-* [Networking](#networking)
-* [Testing](#testing)
 * [Alternative Loops](#alternative-loops)
+* [Database Drivers](#database-drivers)
+* [Message Queues](#message-queues)
 * [Misc](#misc)
-* [Writings](#writings)
+* [Networking](#networking)
 * [Talks](#talks)
+* [Testing](#testing)
+* [Web Frameworks](#web-frameworks)
+* [Writings](#writings)
 
 ***
 
