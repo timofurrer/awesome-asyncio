@@ -36,6 +36,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
+* [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
 
 ## Message Queues
 
@@ -79,6 +80,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiomock](https://github.com/nhumrich/aiomock/) - A python mock library that supports async methods.
 * [asynctest](https://github.com/Martiusweb/asynctest/) - Enhance the standard unittest package with features for testing. asyncio libraries
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+* [aresponses](https://github.com/CircleUp/aresponses) - Asyncio http mocking. Similar to the [responses](https://github.com/getsentry/responses) library used for [requests](https://github.com/requests/requests)
+* [aioresponses](https://github.com/pnuckowski/aioresponses) - Helper for mock/fake web requests in Python aiohttp package.
 
 ## Alternative Loops
 
