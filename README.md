@@ -43,7 +43,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to implement applications using message queues.*
 
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
-* [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
+* [pyzmq](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
+* [aiozmq](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 * [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 * [asyncio-nats](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
 * [aiokafka](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
