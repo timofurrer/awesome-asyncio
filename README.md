@@ -100,6 +100,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
+* [graphql-python](https://github.com/graphql-python) - Collection of libraries providing GraphQL support for various web frameworks and databases
 
 ## Writings
 
