@@ -15,10 +15,11 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Message Queues](#message-queues)
 * [Misc](#misc)
 * [Networking](#networking)
-* [Talks](#talks)
 * [Testing](#testing)
 * [Web Frameworks](#web-frameworks)
+* [Talks](#talks)
 * [Writings](#writings)
+
 
 ***
 
