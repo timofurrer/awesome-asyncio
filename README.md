@@ -38,6 +38,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [Bocadillo](https://bocadilloproject.github.io) - An async-first, productive and performant web framework that ships with carefully chosen included batteries.
 
 ## Message Queues
 
