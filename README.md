@@ -133,3 +133,5 @@ Alternative approaches to async programming in Python, some of which attempt to 
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
 * [trio](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
   * [trio-asyncio](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio
+* [Twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
+  * [twisted.internet.asyncioreactor](https://twistedmatrix.com/trac/ticket/9279) - asyncio-based Twisted reactor implementation.
