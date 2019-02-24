@@ -91,6 +91,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 * [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
+* [trio] (https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
 
 ## Misc
 
