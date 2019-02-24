@@ -19,6 +19,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Web Frameworks](#web-frameworks)
 * [Talks](#talks)
 * [Writings](#writings)
+* [Alternatives to asyncio](#alternatives-to-asyncio)
 
 
 ***
