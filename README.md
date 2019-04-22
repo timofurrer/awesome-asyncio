@@ -38,6 +38,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production (Based on Starlette and Pydantic)
 
 ## Message Queues
 
