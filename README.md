@@ -15,6 +15,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Message Queues](#message-queues)
 * [Misc](#misc)
 * [Networking](#networking)
+* [GraphQL](#graphql)
 * [Testing](#testing)
 * [Web Frameworks](#web-frameworks)
 * [Talks](#talks)
@@ -75,6 +76,13 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 * [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+
+## GraphQL
+
+*Libraries to build GraphQL servers.*
+
+* [Ariadne](https://ariadnegraphql.org) - Schema-first Python library for implementing GraphQL servers.
+* [Tartiflette](https://tartiflette.io/) - Schema-first Python 3.6+ GraphQL engine built on top of `libgraphqlparser`.
 
 ## Testing
 
