@@ -10,15 +10,16 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Contents
 
-* [Alternative Loops](#alternative-loops)
-* [Database Drivers](#database-drivers)
+* [Web Frameworks](#web-frameworks)
 * [Message Queues](#message-queues)
-* [Misc](#misc)
+* [Database Drivers](#database-drivers)
 * [Networking](#networking)
 * [Testing](#testing)
-* [Web Frameworks](#web-frameworks)
-* [Talks](#talks)
+* [Alternative Loops](#alternative-loops)
+* [Misc](#misc)
 * [Writings](#writings)
+* [Talks](#talks)
+* [Alternatives to asyncio](#alternatives-to-asyncio)
 
 
 ***
@@ -126,7 +127,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Alternatives to asyncio
 
-Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all. 
+*Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
 
 * [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
