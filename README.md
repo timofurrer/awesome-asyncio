@@ -10,15 +10,16 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Contents
 
-* [Alternative Loops](#alternative-loops)
-* [Database Drivers](#database-drivers)
+* [Web Frameworks](#web-frameworks)
 * [Message Queues](#message-queues)
-* [Misc](#misc)
+* [Database Drivers](#database-drivers)
 * [Networking](#networking)
 * [Testing](#testing)
-* [Web Frameworks](#web-frameworks)
-* [Talks](#talks)
+* [Alternative Loops](#alternative-loops)
+* [Misc](#misc)
 * [Writings](#writings)
+* [Talks](#talks)
+* [Alternatives to asyncio](#alternatives-to-asyncio)
 
 
 ***
@@ -38,7 +39,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
-* [Bocadillo](https://bocadilloproject.github.io) - An async-first, productive and performant web framework that ships with carefully chosen included batteries.
+* [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+* [Bocadillo](https://bocadilloproject.github.io) - A productive, modern and performant Python web framework filled with asynchronous salsa.
 
 ## Message Queues
 
@@ -68,6 +70,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee](https://github.com/coleifer/peewee) and aiopg.
 * [GINO](https://github.com/fantix/gino) - is a lightweight asynchronous Python ORM based on [SQLAlchemy](https://www.sqlalchemy.org/) core, with [asyncpg](https://github.com/MagicStack/asyncpg) dialect.
 * [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - native multi-backend ORM with Django-like API and easy relations management.
+* [Databases](https://github.com/encode/databases) - Async database access for SQLAlchemy core, with support for PostgreSQL, MySQL, and SQLite.
 
 ## Networking
 
@@ -91,7 +94,6 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Alternative asyncio loop implementations.*
 
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
-* [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
 
 ## Misc
 
@@ -113,6 +115,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Asynchronous Python](https://hackernoon.com/asynchronous-python-45df84b82434) - Introduction into asynchronous programming with Python.
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.
 * [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - Making 1 million requests with python-aiohttp.
+* [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 
 ## Talks
 
@@ -120,3 +123,15 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
 * [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) - 8-part code walkthrough (Philip Guo).
+* [Async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8&t=132s) - EuroPython 2016 (Yury Selivanov).
+* [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) - PyOhio 2016 keynote (David Beazley).
+* [Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA) | [slides](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) - PyCon 2017 (Miguel Grinberg).
+
+## Alternatives to asyncio
+
+*Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
+
+* [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
+  * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
+* [trio](https://github.com/python-trio/trio) - Pythonic async I/O for humans and snake people.
+  * [trio-asyncio](https://github.com/python-trio/trio-asyncio) - re-implementation of the asyncio mainloop on top of Trio
