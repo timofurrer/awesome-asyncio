@@ -102,6 +102,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Alternative asyncio loop implementations.*
 
+* [tokio](https://pypi.org/project/tokio/) - Event loop on top of libev written in Rust.
 * [uvloop](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
 
 ## Misc
