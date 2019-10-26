@@ -114,6 +114,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+* [aiosonic](https://github.com/sonic182/aiosonic) - A very fast http client
 
 ## Writings
 
