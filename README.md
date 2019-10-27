@@ -113,6 +113,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+* [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes http://kubernetes.io/
 
 ## Writings
 
