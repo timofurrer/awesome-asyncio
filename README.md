@@ -80,6 +80,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 * [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
 * [httpx](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) compatible API.
+* [lowhaio](https://github.com/michalc/lowhaio) - Lightweight HTTP client.
 
 ## GraphQL
 
