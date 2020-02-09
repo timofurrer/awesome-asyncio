@@ -4,21 +4,23 @@
 
 The Python [asyncio](https://docs.python.org/3/library/asyncio.html) module introduced to the standard library with Python 3.4 provides infrastructure for writing single-threaded concurrent code using coroutines, multiplexing I/O access over sockets and other resources, running network clients and servers, and other related primitives.
 
-Asyncio is not really a brand-new technology however it appears to be very trending since a few years - especially in the Python community and with the release of Python 3.4 in March 2016.
+Asyncio is not really a brand-new technology however it appears to be very trending since a few years - especially in the Python community and with the release of Python 3.4 in March 2014.
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
 Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) with your suggestion.
 
 ## Contents
 
-* [Alternative Loops](#alternative-loops)
-* [Database Drivers](#database-drivers)
-* [Message Queues](#message-queues)
-* [Misc](#misc)
-* [Networking](#networking)
-* [Testing](#testing)
 * [Web Frameworks](#web-frameworks)
-* [Talks](#talks)
+* [Message Queues](#message-queues)
+* [Database Drivers](#database-drivers)
+* [Networking](#networking)
+* [GraphQL](#graphql)
+* [Testing](#testing)
+* [Alternative Loops](#alternative-loops)
+* [Misc](#misc)
 * [Writings](#writings)
+* [Talks](#talks)
+* [Alternatives to asyncio](#alternatives-to-asyncio)
 
 
 ***
@@ -38,13 +40,15 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Japronto!](https://github.com/squeaky-pl/japronto) - Experimental http toolkit built on top of uvloop and picohttpparser.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
 
 ## Message Queues
 
 *Libraries to implement applications using message queues.*
 
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
-* [aiozmq](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
+* [pyzmq](https://github.com/zeromq/pyzmq) - Python bindings for ZeroMQ.
+* [aiozmq](https://github.com/aio-libs/aiozmq) - Alternative Asyncio integration with ZeroMQ.
 * [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 * [asyncio-nats](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
 * [aiokafka](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
@@ -75,6 +79,14 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 * [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+* [httpx](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) compatible API.
+
+## GraphQL
+
+*Libraries to build GraphQL servers.*
+
+* [Ariadne](https://ariadnegraphql.org) - Schema-first Python library for implementing GraphQL servers.
+* [Tartiflette](https://tartiflette.io/) - Schema-first Python 3.6+ GraphQL engine built on top of `libgraphqlparser`.
 
 ## Testing
 
@@ -102,7 +114,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 * [asgiref](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers.
-
+* [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 ## Writings
 
 *Documentation, blog posts, and other awesome writing about asyncio.*
@@ -114,6 +126,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - A gentle introduction to asynchronous programming from basic examples working up to URL fetching.
 * [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - Making 1 million requests with python-aiohttp.
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
+* [First Principles Introduction to Asyncio](https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c) - A no-buzzword first principles introduction to the internal workings of asyncio.
+* [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - This tutorial looks at how to develop and test an asynchronous API with FastAPI using Test-Driven Development (TDD).
 
 ## Talks
 
@@ -127,7 +141,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 ## Alternatives to asyncio
 
-Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all. 
+*Alternative approaches to async programming in Python, some of which attempt to support some compatibility with `asyncio`, others are not compatible at all.*
 
 * [curio](https://github.com/dabeaz/curio) - The coroutine concurrency library.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - basic curio -> asyncio coroutine bridge
