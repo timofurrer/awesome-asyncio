@@ -116,6 +116,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 * [asgiref](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers.
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+* [aiocells](https://github.com/isbjorntrading/aiocells) - Toolkit for asynchronous and concurrent dependency graphs and data flow computation
+
 ## Writings
 
 *Documentation, blog posts, and other awesome writing about asyncio.*
