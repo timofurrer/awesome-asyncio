@@ -109,6 +109,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Other awesome asyncio libraries.*
 
 * [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
+* [aiocronjob](https://github.com/devtud/aiocronjob) - Schedule and run asyncio coroutines and manage them from a web interface or programmatically using the rest api.
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 * [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
