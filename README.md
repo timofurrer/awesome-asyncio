@@ -78,7 +78,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to communicate in your network.*
 
 * [AsyncSSH](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
-* [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio
+* [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
+* [aioping](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
 * [httpx](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) compatible API.
 
 ## GraphQL
