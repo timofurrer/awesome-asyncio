@@ -127,6 +127,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) - A spiritual successor to WSGI, intended to provide a standard interface between async-capable Python web servers, frameworks, and applications.
 * [First Principles Introduction to Asyncio](https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c) - A no-buzzword first principles introduction to the internal workings of asyncio.
 * [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - This tutorial looks at how to develop and test an asynchronous API with FastAPI using Test-Driven Development (TDD).
+* [How async should have been](https://sobolevn.me/2020/06/how-async-should-have-been) - Alternative solution to async vs sync problem using dry-python, functional programming, monads, and Higher Kinded Types.
 
 ## Talks
 
