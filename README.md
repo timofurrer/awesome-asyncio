@@ -64,7 +64,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 * [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-* [aredis](https://github.com/NoneGG/aredis) - Redis client for Python asyncio (has support for redis server, sentinel and cluster)
+* [aredis](https://github.com/NoneGG/aredis) - Redis client for Python asyncio (has support for redis server, sentinel and cluster).
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
