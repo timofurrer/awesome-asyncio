@@ -60,6 +60,7 @@ If you are interested, please drop me a quick email at tuxtimo@gmail.com and tel
 * [crossbar](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 * [asyncio-nats](https://github.com/nats-io/asyncio-nats) - Client for the NATS messaging system.
 * [aiokafka](https://github.com/aio-libs/aiokafka) - Client for Apache Kafka.
+* [aioconnectors](https://github.com/mori-b/aioconnectors) - A Message Queue for humans.
 
 ## Database Drivers
 
