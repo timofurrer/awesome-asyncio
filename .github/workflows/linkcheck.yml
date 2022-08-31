@@ -11,3 +11,5 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run linksafe
         uses: TechWiz-3/linksafe@main
+        with:
+          whitelist_links: "http://masnun.com/2015/11/13/python-generators-coroutines-native-coroutines-and-async-await.html"
