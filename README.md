@@ -147,6 +147,7 @@ If you are interested, please drop me a quick email at tuxtimo@gmail.com and tel
 * [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) - PyOhio 2016 keynote (David Beazley).
 * [Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA) | [slides](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) - PyCon 2017 (Miguel Grinberg).
 * [Demystifying Python's Async and Await Keywords](https://www.youtube.com/watch?v=F19R_M4Nay4) - JetBrains TV 2020 (Michael Kennedy)
+* [Build Your Own Async](https://youtu.be/Y4Gt3Xjd7G8) - Pycon India 2019 (David Beazley)
 * [Thinking about Concurrency in Python](https://youtu.be/Bv25Dwe84g0) - Pycon Russia 2016 (Raymond Hettinger, Python Core Developer)
 * [Python Concurrency From the Ground Up](https://youtu.be/MCs5OvhV9S4) - Pycon 2015 (David Beazley)
 * [Keynote Speech on Concurrency](https://youtu.be/9zinZmE3Ogk) - PyBay 2017 (Raymond Hettinger, Python Core Developer)
