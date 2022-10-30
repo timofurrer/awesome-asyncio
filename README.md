@@ -61,8 +61,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiomysql](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
 * [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
-* [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis client (PEP 3156).
-* [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
+* [redis-py](https://github.com/redis/redis-py) - Redis Python Client (which includes [aioreadis](https://github.com/aio-libs/aioredis) now).
 * [aiocouchdb](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioinflux](https://github.com/plugaai/aioinflux) - InfluxDB client built on top of aiohttp.
 * [aioes](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
