@@ -111,11 +111,13 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+* [aioprocessing](https://github.com/dano/aioprocessing) - Provides asynchronous, asyncio compatible, coroutine versions of many blocking instance methods on objects in the multiprocessing library.
 * [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - Distributed tracing instrumentation for asyncio with zipkin
 * [asgiref](https://github.com/django/asgiref) - Backend utils for ASGI to WSGI integration, includes sync_to_async and async_to_sync function wrappers.
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
+
 ## Writings
 
 *Documentation, blog posts, and other awesome writing about asyncio.*
