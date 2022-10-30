@@ -87,6 +87,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [Ariadne](https://ariadnegraphql.org) - Schema-first Python library for implementing GraphQL servers.
 * [Tartiflette](https://tartiflette.io/) - Schema-first Python 3.6+ GraphQL engine built on top of `libgraphqlparser`.
+* [Strawberry](https://strawberry.rocks) - Code-first Python 3 GraphQL server with Django, Flask and FastAPI/Starlette support.
 
 ## Testing
 
