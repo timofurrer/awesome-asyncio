@@ -23,7 +23,6 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Talks](#talks)
 * [Alternatives to asyncio](#alternatives-to-asyncio)
 
-
 ***
 
 ## Web Frameworks
@@ -111,6 +110,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 *Other awesome asyncio libraries.*
 
+* [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
 * [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
 * [aiopath](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
