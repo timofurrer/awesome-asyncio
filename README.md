@@ -8,13 +8,6 @@ Asyncio is not really a brand-new technology however it appears to be very trend
 Thus, it's pretty hard to keep yourself up-to-date with the most awesome packages out there.
 Find some of those *awesome* packages here and if you are missing one we count on you to [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) with your suggestion.
 
-## ⚠️ Looking for help to maintain this
-
-Since quite some time I'm unable to give this repository the love it deserves. 
-Therefore, I'm looking for someone knowledgable of the Python ecosystem and community to help me maintain this repository. 
-This would include to review PRs and in general bring this repository up to date again.
-
-If you are interested, please drop me a quick email at tuxtimo@gmail.com and tell me your motiviation :)
 
 ## Contents
 
