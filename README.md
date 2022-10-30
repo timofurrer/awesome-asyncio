@@ -113,6 +113,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
+* [aiopath](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 * [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 * [aioserial](https://github.com/changyuheng/aioserial) - A drop-in replacement of [pySerial](https://github.com/pyserial/pyserial).
