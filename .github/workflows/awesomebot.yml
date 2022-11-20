@@ -1,0 +1,19 @@
+name: Check links in README.md
+
+on:
+  push:
+    branches: [ '*' ]
+  pull_request:
+    branches: [ '*' ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: docker://dkhamsing/awesome_bot:latest
+      with:
+        args: /github/workspace/README.md --allow-timeout --allow 500,501,502,503,504,509,521 --allow-dupe --allow-ssl --request-delay 1 --allow-redirect
+# You can whitelist domains with --white-list https://example.com
