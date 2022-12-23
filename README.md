@@ -30,6 +30,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to build web applications.*
 
 * [FastAPI](https://github.com/tiangolo/fastapi) - A very high performance Python 3.6+ API framework based on type hints. Powered by Starlette and Pydantic.
+* [Django](https://www.djangoproject.com/) - An established, high-level Python web framework with a huge community and ecosystem.
 * [Starlette](https://github.com/encode/starlette) - A lightweight ASGI framework/toolkit for building high performance services.
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
 * [sanic](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
