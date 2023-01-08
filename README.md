@@ -125,6 +125,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+* [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
 
 ## Writings
 
