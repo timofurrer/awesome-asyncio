@@ -39,6 +39,8 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 * [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
+
 
 
 ## Message Queues
