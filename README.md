@@ -126,6 +126,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 * [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
+* [VimChanneler](https://github.com/m6z/VimChanneler/) - Control and interact with a [vim](https://www.vim.org/) editor as a child process.
 
 ## Writings
 
