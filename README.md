@@ -1,3 +1,8 @@
+> [!WARNING]
+> This project is looking for a new home. I'm no longer maintaining it.
+> Please let me know if you want to take over maintainance for it.
+> Write me an email to timo@furrer.life
+
 # Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > A carefully curated list of awesome Python asyncio frameworks, libraries, software and resources.
