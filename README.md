@@ -44,6 +44,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [websockets](https://github.com/aaugustin/websockets/) - A library for building WebSocket servers and clients in Python with a focus on correctness and simplicity.
 * [Tornado](http://www.tornadoweb.org/en/stable/) - Performant web framework and asynchronous networking library.
 * [uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server.
+* [realtime-ai-serve](https://github.com/anmoldhingra1/realtime-ai-serve) - A low-latency streaming inference server for AI models with token streaming, request batching, and dynamic model hot-swapping. Built on asyncio and aiohttp.
 
 
 ## Message Queues
