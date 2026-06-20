@@ -131,6 +131,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 * [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
+* [that-depends](https://github.com/modern-python/that-depends) - Async-first dependency injection framework with scopes and an IoC container.
 
 ## Writings
 
