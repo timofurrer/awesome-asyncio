@@ -87,6 +87,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiodns](https://github.com/saghul/aiodns) - Simple DNS resolver for asyncio.
 * [aioping](https://github.com/stellarbit/aioping) - Fast asyncio implementation of ICMP (ping) protocol.
 * [httpx](https://github.com/encode/httpx) - asynchronous HTTP client for Python 3 with [requests](https://github.com/psf/requests) compatible API.
+* [httpware](https://github.com/modern-python/httpware) - Async HTTP client framework on top of httpx2 with built-in resilience (retries, circuit breaker, bulkhead).
 
 ## GraphQL
 
