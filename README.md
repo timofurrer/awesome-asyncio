@@ -119,6 +119,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aiochan](https://github.com/zh217/aiochan) - CSP-style concurrency with channels, select and multiprocessing on top of asyncio.
 * [aiocache](https://github.com/argaen/aiocache) - Cache manager for different backends.
 * [aiofiles](https://github.com/Tinche/aiofiles/) - File support for asyncio.
+* [ayafileio](https://github.com/Patchouli-CN/ayafileio) - Async file I/O on real kernel backends: IOCP on Windows, io_uring on Linux, GCD on macOS.
 * [aiopath](https://github.com/alexdelorenzo/aiopath) - Asynchronous `pathlib` for asyncio.
 * [aiodebug](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
 * [aiorun](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
