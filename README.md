@@ -144,6 +144,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [First Principles Introduction to Asyncio](https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c) - A no-buzzword first principles introduction to the internal workings of asyncio.
 * [Developing and Testing an Asynchronous API with FastAPI and Pytest](https://testdriven.io/blog/fastapi-crud/) - This tutorial looks at how to develop and test an asynchronous API with FastAPI using Test-Driven Development (TDD).
 * [Python Concurrency with asyncio](https://www.manning.com/books/python-concurrency-with-asyncio) - Learn how to speed up slow Python code with concurrent programming and the cutting-edge asyncio library.
+* [The coroutine, the loop, and the cancel](https://harut8.github.io/system-design/python-mastery/28-asyncio-internals/) - A walk through the CPython source from `await` down to the selector syscall, covering Tasks, Futures, cancellation, TaskGroup, the eager task factory and why uvloop is faster.
 
 ## Talks
 
