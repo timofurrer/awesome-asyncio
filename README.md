@@ -131,6 +131,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 * [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
+* [nuke-di](https://github.com/troyan-dy/nuke-di) - Dependency injection by type hints with an async lifecycle: clients connect concurrently as soon as their own dependencies have and disconnect in reverse order; jobs and workers with graceful shutdown on SIGTERM.
 
 ## Writings
 
