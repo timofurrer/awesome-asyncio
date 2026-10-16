@@ -131,6 +131,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
 * [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
+* [fastapi-guard](https://github.com/Guard-Core/fastapi-guard) - Security middleware for FastAPI and Starlette with IP filtering, rate limiting with automatic bans and penetration attempt detection.
 
 ## Writings
 
