@@ -130,6 +130,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [ruia](https://github.com/howie6879/ruia) - An async web scraping micro-framework based on asyncio.
 * [kubernetes_asyncio](https://github.com/tomplus/kubernetes_asyncio) - Asynchronous client library for Kubernetes.
 * [aiomisc](https://github.com/aiokitchen/aiomisc) - Miscellaneous utils for `asyncio`.
+* [fastapi-stream-lease](https://github.com/agustin18/fastapi-stream-lease) - Distributed concurrency and lease manager for active SSE and LLM streams in FastAPI and Starlette.
 * [taskiq](https://taskiq-python.github.io/) - Asynchronous distributed task manager (like celery, but async). 
 
 ## Writings
