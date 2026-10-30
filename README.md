@@ -78,6 +78,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [Prisma Client Python](https://github.com/RobertCraigie/prisma-client-py) - An auto-generated, fully type safe ORM powered by Pydantic and tailored specifically for your schema - supports SQLite, PostgreSQL, MySQL, MongoDB, MariaDB and more.
 * [Piccolo](https://github.com/piccolo-orm/piccolo) - An ORM / query builder which can work in async and sync modes, with a nice admin GUI, and ASGI middleware.
 * [Beanie](https://beanie-odm.dev) - An async MongoDB ODM built on [pymongo](https://github.com/mongodb/mongo-python-driver) and [Pydantic](https://pydantic-docs.helpmanual.io).
+* [monorm](https://github.com/UniForgeStack/monorm) - Fast ORM with a Rust core, a Django-style API and a schema in Prisma syntax, for PostgreSQL and SQLite.
 
 ## Networking
 
